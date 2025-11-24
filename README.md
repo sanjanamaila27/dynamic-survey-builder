@@ -182,14 +182,6 @@ File upload
 ⭐ 5. Dedicated Live Theme Switcher
 
 Currently uses OS theme; adding a toggle button would be next.
-## 📸 Screenshots
-
-### Builder View
-"C:\Users\sanja\Desktop\builder-ui-preview.png.png"
-
-### Preview View
-"C:\Users\sanja\Desktop\builder.png.png"
-
 
 🧑‍💻 Author
 Sanjana
